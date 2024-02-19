@@ -1,1 +1,24 @@
 /* Codul tau CSS aici */
+
+button {
+    padding: 10px;
+    color: white;
+    background-color: #007bff;
+    border:none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button :hover {
+    box-shadow: 0 0 7px 0 rgba (0, 0, 0, 0.3);
+    
+}
+
+.info {
+    background-color: goldenrod;
+}
+
+li {
+    list-style: none;
+
+}
